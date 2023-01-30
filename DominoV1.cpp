@@ -1,14 +1,4 @@
 // Práctica del Dominó, realizada por Daniel Cobos Peñas
-/* COMENTARIOS: (PARA GUIA PROPIA)
--
--
--
--
--
--
--
--
-*/
 
 #include <iostream>
 #include <ctime>
